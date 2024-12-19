@@ -192,7 +192,7 @@ main {
 }
  
 .card:nth-of-type(12) .card__screenshot {
-    background-color: rgb(38, 120, 145);
+    background-color: rgb(12, 168, 216);
 }
  
 .card__links {
@@ -299,32 +299,26 @@ footer picture img {
         padding: 4rem 1rem;
         box-shadow: 10px 10px 55px -25px rgba(0,0,0,0.75);
     }
- 
     .header__portrait {
         float: left;
         transform: scale(1.4);
         margin: 0 3rem 1rem 0;
         transform-origin: bottom;
     }
- 
     h1 {
         left: 200px;
         top: -5px;
         font-size: 2rem;
         width: 300px;
     }
- 
     .header__text {
         width: 100%;
         line-height: 2rem;
  
     }
- 
     .header__links {
         display: none;
     }
- 
- 
     .cards {
         padding: 0 4rem;
     }
@@ -396,7 +390,6 @@ footer picture img {
     .header__text {
         padding: 0;
     }
- 
     footer picture img {
         height: 400px;
         width: auto;
